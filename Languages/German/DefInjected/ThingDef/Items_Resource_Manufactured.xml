@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DiamondCut.label>Brillant</DiamondCut.label>
+  <DiamondCut.description>Ein Diamant der sorgfältig zum Brillanten geschliffen wurde, um seine Schönheit zu erhöhen. Er ist äußerst wertvoll.</DiamondCut.description>
+  <!-- german word spectrum: Geschliffener Rubin -->
+  <RubyCut.label>Rubin Edelstein</RubyCut.label>
+  <RubyCut.description>Ein Rubin der sorgfältig zum Edelstein geschliffen wurde, um seine Schönheit zu erhöhen. Er ist äußerst wertvoll.</RubyCut.description>
+  <!-- german word spectrum: Geschliffene Jade -->
+  <JadeCut.label>Jade Edelstein</JadeCut.label>
+  <JadeCut.description>Jade die sorgfältig zum Edelstein geschliffen wurde, um ihre Schönheit zu erhöhen. Sie ist äußerst wertvoll.</JadeCut.description>
+  <!-- german word spectrum: Geschliffener Saphir -->
+  <SapphireCut.label>Saphir Edelstein</SapphireCut.label>
+  <SapphireCut.description>Ein Saphir der sorgfältig zum Edelstein geschliffen wurde, um seine Schönheit zu erhöhen. Er ist äußerst wertvoll.</SapphireCut.description>
+
+</LanguageData>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_DiamondCut.label>Schleife einen Brillant</Make_DiamondCut.label>
+  <Make_DiamondCut.description>Schleife einen Brillanten aus Diamant.</Make_DiamondCut.description>
+  <Make_DiamondCut.jobString>Edelstein-Feinschliff</Make_DiamondCut.jobString>
+
+  <Make_RubyCut.label>Schleife einen Rubin</Make_RubyCut.label>
+  <Make_RubyCut.description>Schleife einen Edelstein aus Rubin.</Make_RubyCut.description>
+  <Make_RubyCut.jobString>Edelstein-Feinschliff</Make_RubyCut.jobString>
+
+  <Make_JadeCut.label>Schleife Jade</Make_JadeCut.label>
+  <Make_JadeCut.description>Schleife einen Edelstein aus Jade.</Make_JadeCut.description>
+  <Make_JadeCut.jobString>Edelstein-Feinschliff</Make_JadeCut.jobString>
+
+  <Make_SapphireCut.label>Schleife einen Saphir</Make_SapphireCut.label>
+  <Make_SapphireCut.description>Schleife einen Edelstein aus Saphir.</Make_SapphireCut.description>
+  <Make_SapphireCut.jobString>Edelstein-Feinschliff</Make_SapphireCut.jobString>
+
+  <!-- LaserTableSculpting: using the word smith, instead of make - additional german word spectrum: Armband, Amreif -->
+  
+  <Make_Jewelry_GoldBracelet.label>Schmiede ein Gold-Armband</Make_Jewelry_GoldBracelet.label>
+  <Make_Jewelry_GoldBracelet.description>Stelle ein Gold-Armband her.</Make_Jewelry_GoldBracelet.description>
+  <Make_Jewelry_GoldBracelet.jobString>Feinschmiede</Make_Jewelry_GoldBracelet.jobString>
+
+  <!-- Attention: Singular Pronouncations on 'Diamond' etc. dont change the RecipeCost for perfect german language translation  -->
+  <Make_Jewelry_DiamondBracelet.label>Schmiede ein Gold-Armreif mit Diamanten</Make_Jewelry_DiamondBracelet.label>
+  <Make_Jewelry_DiamondBracelet.description>Stelle ein Gold-Armreif mit Diamanten her.</Make_Jewelry_DiamondBracelet.description>
+  <Make_Jewelry_DiamondBracelet.jobString>Feinschmiede</Make_Jewelry_DiamondBracelet.jobString>
+
+  <Make_Jewelry_JadeBracelet.label>Schmiede ein Gold-Armreif mit Jade</Make_Jewelry_JadeBracelet.label>
+  <Make_Jewelry_JadeBracelet.description>Stelle ein Gold-Armreif mit Jade her.</Make_Jewelry_JadeBracelet.description>
+  <Make_Jewelry_JadeBracelet.jobString>Feinschmiede</Make_Jewelry_JadeBracelet.jobString>
+  
+  <Make_Jewelry_RubyBracelet.label>Schmiede ein Gold-Armreif mit Rubinen</Make_Jewelry_RubyBracelet.label>
+  <Make_Jewelry_RubyBracelet.description>Stelle ein Gold-Armreif mit Rubinen her.</Make_Jewelry_RubyBracelet.description>
+  <Make_Jewelry_RubyBracelet.jobString>Feinschmiede</Make_Jewelry_RubyBracelet.jobString>
+  
+  <Make_Jewelry_SapphireBracelet.label>Schmiede ein Gold-Armreif mit Saphiren</Make_Jewelry_SapphireBracelet.label>
+  <Make_Jewelry_SapphireBracelet.description>Stelle ein Gold-Armreif mit Saphiren her.</Make_Jewelry_SapphireBracelet.description>
+  <Make_Jewelry_SapphireBracelet.jobString>Feinschmiede</Make_Jewelry_SapphireBracelet.jobString>
+  
+  <!-- additional german word spectrum: Ohrstecker, Kreolen -->
+  
+  <Make_Jewelry_GoldEarring.label>Schmiede Gold-Ohrringe</Make_Jewelry_GoldEarring.label>
+  <Make_Jewelry_GoldEarring.description>Stelle Gold-Ohrringe her.</Make_Jewelry_GoldEarring.description>
+  <Make_Jewelry_GoldEarring.jobString>Feinschmiede</Make_Jewelry_GoldEarring.jobString>
+  <!-- Attention: Plural Pronouncations on 'Diamond', 'Sapphire' for perfect german, recipe doesnt matter -->
+  <Make_Jewelry_DiamondNecklace.label>Schmiede Gold-Ohrringe mit Diamanten</Make_Jewelry_DiamondNecklace.label>
+  <Make_Jewelry_DiamondNecklace.description>Stelle Gold-Ohrringe mit Diamanten her</Make_Jewelry_DiamondNecklace.description>
+  <Make_Jewelry_DiamondNecklace.jobString>Feinschmiede</Make_Jewelry_DiamondNecklace.jobString>
+
+  <Make_Jewelry_RubyNecklace.label>Schmiede Gold-Ohrringe mit Rubinen</Make_Jewelry_RubyNecklace.label>
+  <Make_Jewelry_RubyNecklace.description>Stelle Gold-Ohrringe mit Rubinen her.</Make_Jewelry_RubyNecklace.description>
+  <Make_Jewelry_RubyNecklace.jobString>Feinschmiede</Make_Jewelry_RubyNecklace.jobString>
+
+  <Make_Jewelry_JadeNecklace.label>Schmiede Gold-Ohrringe mit Jade</Make_Jewelry_JadeNecklace.label>
+  <Make_Jewelry_JadeNecklace.description>Stelle Gold-Ohrringe mit Jade her.</Make_Jewelry_JadeNecklace.description>
+  <Make_Jewelry_JadeNecklace.jobString>Feinschmiede</Make_Jewelry_JadeNecklace.jobString>
+
+  <Make_Jewelry_SapphireNecklace.label>Schmiede Gold-Ohrringe mit Saphiren</Make_Jewelry_SapphireNecklace.label>
+  <Make_Jewelry_SapphireNecklace.description>Stelle Gold-Ohrringe mit Saphiren her.</Make_Jewelry_SapphireNecklace.description>
+  <Make_Jewelry_SapphireNecklace.jobString>Feinschmiede</Make_Jewelry_SapphireNecklace.jobString>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LaserSculpting.label>Schneidlaser Werkbank</LaserSculpting.label>
+  <LaserSculpting.description>Ein elektronisch betriebener Schneidlaser auf einer praktischen Werkbank um doppelt so schnell arbeiten zu können.</LaserSculpting.description>
+
+  <CuttingGems.label>Edelstein-Feinschliff</CuttingGems.label>
+  <CuttingGems.description>Lerne wie man Edelsteine zu Brillanten schneidet.</CuttingGems.description>
+
+  <JewelryCrafting.label>Schmuck</JewelryCrafting.label>
+  <JewelryCrafting.description>Lerne wie man Edelsteine zu Schmuckwaren und Juwelen feinschmiedet.</JewelryCrafting.description>
+
+</LanguageData>

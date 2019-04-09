@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jewelry_GoldBracelet.label>Gold-Armband</Jewelry_GoldBracelet.label>
+  <Jewelry_GoldBracelet.description>Eine Menge wert, gewährt dem Träger eine gewisse Anziehungskraft und verleiht zusätzlich einen Stimmungsbonus.</Jewelry_GoldBracelet.description>
+
+  <Jewelry_DiamondBracelet.label>Gold-Armreif mit Diamanten</Jewelry_DiamondBracelet.label>
+  <Jewelry_DiamondBracelet.description>Gewährt dem Träger eine gewisse Anziehungskraft und verleiht zusätzlich einen Stimmungsbonus. Wurde auf wunderschöne Art und Weise mit wertvollen Diamanten verziert.</Jewelry_DiamondBracelet.description>
+
+  <Jewelry_JadeBracelet.label>Gold-Armreif mit Jade</Jewelry_JadeBracelet.label>
+  <Jewelry_JadeBracelet.description>Eine Menge wert, gewährt dem Träger eine gewisse Anziehungskraft und verleiht zusätzlich einen Stimmungsbonus. Wurde grazil mit Jade besetzt.</Jewelry_JadeBracelet.description>
+
+  <Jewelry_RubyBracelet.label>Gold-Armreif mit Rubinen</Jewelry_RubyBracelet.label>
+  <Jewelry_RubyBracelet.description>Eine Menge wert, gewährt dem Träger eine gewisse Anziehungskraft und verleiht zusätzlich einen Stimmungsbonus. Verfügt über eine feine Rubinfassung.</Jewelry_RubyBracelet.description>
+
+  <Jewelry_SapphireBracelet.label>Gold-Armreif mit Saphiren</Jewelry_SapphireBracelet.label>
+  <Jewelry_SapphireBracelet.description>Eine Menge wert, gewährt dem Träger eine gewisse Anziehungskraft und verleiht zusätzlich einen Stimmungsbonus. Verfügt über eine herrliche Saphirfassung.</Jewelry_SapphireBracelet.description>
+
+</LanguageData>

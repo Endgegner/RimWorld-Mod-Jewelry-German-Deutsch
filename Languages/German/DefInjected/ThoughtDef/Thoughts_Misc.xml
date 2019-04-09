@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WearingNecklace.stages.0.label>Trägt Halskette</WearingNecklace.stages.0.label>
+  <WearingNecklace.stages.0.description>Ich trage ein extrem wertvolle Halskette aus Gold mit wunderschönen Edelsteinen. Die steht mir!</WearingNecklace.stages.0.description>
+
+  <WearingGoldBracelet.stages.0.label>Trägt Armband</WearingGoldBracelet.stages.0.label>
+  <WearingGoldBracelet.stages.0.description>Ich trage eine teures Armband aus Gold. Leider zeigt es mir nicht die Uhrzeit an. Muss los!</WearingGoldBracelet.stages.0.description>
+
+  <WearingGemsBracelet.stages.0.label>Trägt verziertes Armband</WearingGemsBracelet.stages.0.label>
+  <WearingGemsBracelet.stages.0.description>Ich trage eine teures Armband aus Gold und Edelsteinen. Wie dekadent!</WearingGemsBracelet.stages.0.description>
+
+
+</LanguageData>

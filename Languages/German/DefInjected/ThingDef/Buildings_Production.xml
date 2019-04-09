@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LaserTableSculpting.label>Schneidlaser-Werkbank</LaserTableSculpting.label>
+  <LaserTableSculpting.description>Eine Werkbank mit Schneidlasertechnik. Wird für das Herstellen von künstlerischen Skulpturen und das Verfeinern von Edelsteinen verwendet. Benötigt Strom.</LaserTableSculpting.description>
+  <!-- deinstallieren / installieren -->
+  <LaserTableSculpting_Blueprint.label>Schneidlaser-Werkbank (Blaupause)</LaserTableSculpting_Blueprint.label>
+  <LaserTableSculpting_Blueprint_Install.label>Schneidlaser-Werkbank (Blaupause)</LaserTableSculpting_Blueprint_Install.label>
+  <LaserTableSculpting_Frame.label>Schneidlaser-Werkbank (Gebäude)</LaserTableSculpting_Frame.label>
+  <LaserTableSculpting_Frame.description>Eine Werkbank mit Schneidlasertechnik. Wird für das Herstellen von künstlerischen Skulpturen und das Verfeinern von Edelsteinen verwendet. Benötigt Strom.</LaserTableSculpting_Frame.description>
+
+</LanguageData>

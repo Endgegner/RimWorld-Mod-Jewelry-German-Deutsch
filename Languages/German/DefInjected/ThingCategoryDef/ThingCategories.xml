@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jewelry.label>Schmuck und Juwelen</Jewelry.label>
+  <!-- german word spectrum: Collier -->
+  <Necklace.label>Halskette</Necklace.label>
+  <Ring.label>Ring</Ring.label>
+  <Bracelet.label>Armband</Bracelet.label>
+  <Earrings.label>Ohrringe</Earrings.label>
+
+</LanguageData>
